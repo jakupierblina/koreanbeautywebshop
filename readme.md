@@ -1,3 +1,5 @@
+# ONGOING
+
 # Korean Beauty webshop
 
 Web application in django and python.
